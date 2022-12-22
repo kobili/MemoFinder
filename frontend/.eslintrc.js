@@ -1,0 +1,45 @@
+// based off of Practica Eslint configuration
+module.exports = {
+  env: {
+    browser: true
+  },
+  extends: [
+    'airbnb-base',
+    'plugin:@typescript-eslint/eslint-recommended',
+    'plugin:@typescript-eslint/recommended',
+    'prettier',
+    'plugin:cypress/recommended',
+    'plugin:chai-friendly/recommended'
+  ],
+  ignorePatterns: ['**/dist/*', '**/node_modules/*'],
+  parser: '@typescript-eslint/parser',
+  parserOptions: {
+    ecmaVersion: '2022',
+    sourceType: 'module'
+  },
+  plugins: ['@typescript-eslint', 'prettier', 'simple-import-sort', 'chai-friendly'],
+  rules: {
+    'no-continue': 'off',
+    'guard-for-in': 'off',
+    'no-restricted-syntax': 'off',
+    'no-shadow': 'off',
+    'default-case': 'off',
+    '@typescript-eslint/no-explicit-any': 'off',
+    'simple-import-sort/imports': 'error',
+    '@typescript-eslint/no-unused-vars': 'error',
+    'prettier/prettier': 'error',
+    'import/no-extraneous-dependencies': ['error', { devDependencies: true }],
+    'no-console': 'off',
+    'import/no-unresolved': 'off',
+    'import/extensions': 'off',
+    'no-return-await': 'off',
+    'no-restricted-exports': 'off',
+    'no-param-reassign': 'off',
+    'no-use-before-define': 'off',
+    'import/prefer-default-export': 'off',
+    'no-plusplus': 'off',
+    '@typescript-eslint/no-namespace': 'off',
+    'cypress/no-unnecessary-waiting': 'warn',
+    'cypress/no-unused-expressions': 'off'
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "tree": {
+    "nodes": [
+      {
+        "label": "fib(n=1)",
+        "line": 4,
+        "returnValue": 1
+      },
+      {
+        "label": "fib(n=1)",
+        "line": 4,
+        "returnValue": 1
+      },
+      {
+        "label": "fib(n=1)",
+        "line": 4,
+        "returnValue": 1
+      },
+      {
+        "label": "fib(n=1)",
+        "line": 4,
+        "returnValue": 1
+      },
+      {
+        "label": "fib(n=1)",
+        "line": 4,
+        "returnValue": 1
+      },
+      {
+        "label": "fib(n=0)",
+        "line": 4,
+        "returnValue": 1
+      },
+      {
+        "label": "fib(n=0)",
+        "line": 4,
+        "returnValue": 1
+      },
+      {
+        "label": "fib(n=0)",
+        "line": 4,
+        "returnValue": 1
+      },
+      {
+        "label": "fib(n=2)",
+        "line": 4,
+        "returnValue": 2
+      },
+      {
+        "label": "fib(n=2)",
+        "line": 4,
+        "returnValue": 2
+      },
+      {
+        "label": "fib(n=2)",
+        "line": 4,
+        "returnValue": 2
+      },
+      {
+        "label": "fib(n=3)",
+        "line": 4,
+        "returnValue": 3
+      },
+      {
+        "label": "fib(n=3)",
+        "line": 4,
+        "returnValue": 3
+      },
+      {
+        "label": "fib(n=4)",
+        "line": 4,
+        "returnValue": 5
+      },
+      {
+        "label": "fib(n=5)",
+        "line": 7,
+        "returnValue": 8
+      },
+      {
+        "label": "module",
+        "line": -1,
+        "returnValue": null
+      }
+    ]
+  },
+  "grid": {
+    "nodes": [
+      {
+        "key": "fib(n=1)",
+        "label": "fib(n=1)",
+        "numCalls": 5
+      },
+      {
+        "key": "fib(n=0)",
+        "label": "fib(n=0)",
+        "numCalls": 3
+      },
+      {
+        "key": "fib(n=2)",
+        "label": "fib(n=2)",
+        "numCalls": 3
+      },
+      {
+        "key": "fib(n=3)",
+        "label": "fib(n=3)",
+        "numCalls": 2
+      },
+      {
+        "key": "fib(n=4)",
+        "label": "fib(n=4)",
+        "numCalls": 1
+      },
+      {
+        "key": "fib(n=5)",
+        "label": "fib(n=5)",
+        "numCalls": 1
+      }
+    ]
+  }
+}

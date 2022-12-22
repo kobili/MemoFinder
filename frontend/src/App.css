@@ -1,0 +1,13 @@
+button.run {
+    min-width: 100px;
+}
+
+.graph {
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+}
+
+.editor {
+    border-right: 1px solid #ececec;
+}

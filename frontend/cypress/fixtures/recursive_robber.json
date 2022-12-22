@@ -1,0 +1,95 @@
+{
+  "tree": {
+    "nodes": [
+      {
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=1)",
+        "line": 6,
+        "returnValue": 2
+      },
+      {
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=1)",
+        "line": 6,
+        "returnValue": 2
+      },
+      {
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=1)",
+        "line": 6,
+        "returnValue": 2
+      },
+      {
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=0)",
+        "line": 6,
+        "returnValue": 1
+      },
+      {
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=0)",
+        "line": 6,
+        "returnValue": 1
+      },
+      {
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=2)",
+        "line": 6,
+        "returnValue": 4
+      },
+      {
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=2)",
+        "line": 6,
+        "returnValue": 4
+      },
+      {
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=3)",
+        "line": 6,
+        "returnValue": 6
+      },
+      {
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=4)",
+        "line": 2,
+        "returnValue": 9
+      },
+      {
+        "label": "house_robber(nums=[1, 2, 3, 4, 5])",
+        "line": 8,
+        "returnValue": 9
+      },
+      {
+        "label": "module",
+        "line": -1,
+        "returnValue": null
+      }
+    ]
+  },
+  "grid": {
+    "nodes": [
+      {
+        "key": "recursive_robber(nums=[1, 2, 3, 4, 5], i=1)",
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=1)",
+        "numCalls": 3
+      },
+      {
+        "key": "recursive_robber(nums=[1, 2, 3, 4, 5], i=0)",
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=0)",
+        "numCalls": 2
+      },
+      {
+        "key": "recursive_robber(nums=[1, 2, 3, 4, 5], i=2)",
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=2)",
+        "numCalls": 2
+      },
+      {
+        "key": "recursive_robber(nums=[1, 2, 3, 4, 5], i=3)",
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=3)",
+        "numCalls": 1
+      },
+      {
+        "key": "recursive_robber(nums=[1, 2, 3, 4, 5], i=4)",
+        "label": "recursive_robber(nums=[1, 2, 3, 4, 5], i=4)",
+        "numCalls": 1
+      },
+      {
+        "key": "house_robber(nums=[1, 2, 3, 4, 5])",
+        "label": "house_robber(nums=[1, 2, 3, 4, 5])",
+        "numCalls": 1
+      }
+    ]
+  }
+}
