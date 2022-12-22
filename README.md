@@ -1,8 +1,12 @@
 # MemoFinder
 
-[Wiki](https://github.students.cs.ubc.ca/CPSC410-2022W-T1/Project2Group2/wiki)
+<!-- [Wiki](https://github.students.cs.ubc.ca/CPSC410-2022W-T1/Project2Group2/wiki)
 
-[Milestones](https://github.students.cs.ubc.ca/CPSC410-2022W-T1/Project2Group2/wiki/Milestones)
+[Milestones](https://github.students.cs.ubc.ca/CPSC410-2022W-T1/Project2Group2/wiki/Milestones) -->
+
+A dynamic program analysis tool that analyses Python code for instances where the memoization technique can be used to save on computation.
+
+Written as part of a group project for UBC's CPSC 410 course of Winter 2022 Term 1
 
 ## Installing all dependencies
 
